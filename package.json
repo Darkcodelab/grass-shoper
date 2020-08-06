@@ -1,0 +1,21 @@
+{
+  "name": "grass-shoper",
+  "version": "1.0.0",
+  "description": "A full-stack web application built using Nodejs, express, MongoDB, Html, Javascript. People can sell and buy plants. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Grass-shoper",
+    "plant",
+    "shop",
+    "online",
+    "plant",
+    "shop",
+    "plants",
+    "ecommerce"
+  ],
+  "author": "Deepan Chakravarthi",
+  "license": "ISC"
+}
